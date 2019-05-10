@@ -16,7 +16,7 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
+	color: palevioletred; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
@@ -177,10 +177,10 @@ footer a:link, footer a:visited {
 	list-style-type: none;
 	}
 .sidebar li a:link {
-	color: #988F5E;
+	color:royalblue;
 	}
 .sidebar li a:visited {
-	color: #B3AE94;
+	color: purple;
 	}
 
 
